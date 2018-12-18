@@ -1,6 +1,6 @@
 import 'dart:io';
 
-main(List<String> args) {
+main() {
   while (true) {
     stdout.write('e');
   }
